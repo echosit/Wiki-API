@@ -1,6 +1,6 @@
 # Wiki-API
 
-A simple Wikipedia Rest API. 
+A simple Wikipedia Restful API. 
 
 ## Features
 
