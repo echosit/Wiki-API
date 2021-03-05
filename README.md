@@ -4,7 +4,7 @@ A simple Wikipedia Restful API.
 
 ## Features
 
-- Rest API
+- Restful API
 
 ## Tools
 
